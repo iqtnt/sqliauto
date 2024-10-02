@@ -12,6 +12,10 @@ nano sqli.txt
 python3 sqliauto.py
 ```
 
+```bash
+n
+```
+
 <div align="center">
     <h3>Connect with me:</h3>
     <p>
