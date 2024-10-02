@@ -7,13 +7,17 @@ To install the project, run the following commands:
 
 ```bash
 git clone https://github.com/iqtnt/sqliauto
+```
+```bash
 cd sqliauto
-nano sqli.txt
-python3 sqliauto.py
 ```
 
 ```bash
-n
+nano sqli.txt
+```
+
+```bash
+python3 sqliauto.py
 ```
 
 <div align="center">
