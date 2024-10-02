@@ -22,5 +22,6 @@ python3 sqliauto.py
         <a href="https://t.me/dd9hh" target="_blank">
             <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" height="30" width="40" style="margin: 0 10px;" />
         </a>
+        </a>
     </p>
 </div>
