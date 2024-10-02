@@ -17,7 +17,7 @@ python3 sqliauto.py
     <h3>Connect with me:</h3>
     <p>
         <a href="https://instagram.com/488i88" target="_blank">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin: 0 10px;" />
+            <img src="https://www.svgrepo.com/show/452229/instagram-1.svg" alt="Instagram" height="30" width="40" style="margin: 0 10px;" />
         </a>
         <a href="https://t.me/dd9hh" target="_blank">
             <img src="https://www.svgrepo.com/show/452115/telegram.svg" alt="Telegram" height="30" width="40" style="margin: 0 10px;" />
