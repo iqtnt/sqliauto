@@ -9,4 +9,4 @@ To install the project, run the following commands:
 git clone https://github.com/iqtnt/sqliauto
 cd sqliauto
 nano sqli.txt
-python3 sqliauto.py```
+python3 sqliauto.py
