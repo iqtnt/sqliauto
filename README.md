@@ -8,7 +8,6 @@ To install the project, run the following commands:
 ```bash
 git clone https://github.com/iqtnt/sqliauto
 cd sqliauto
-pip install requirements.txt
 nano sqli.txt
 python3 sqliauto.py
 ```
