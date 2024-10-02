@@ -20,7 +20,7 @@ python3 sqliauto.py
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" style="margin: 0 10px;" />
         </a>
         <a href="https://t.me/dd9hh" target="_blank">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRku8_NMJHPR56xur3VJWN1MA1FbFE9p3wj_g&s" alt="Telegram" height="30" width="40" style="margin: 0 10px;" />
+            <img src="https://www.svgrepo.com/show/506600/telegram.svg" alt="Telegram" height="30" width="40" style="margin: 0 10px;" />
         </a>
     </p>
 </div>
